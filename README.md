@@ -1,6 +1,6 @@
 # React Native Airline App
 ________________________________
-<h2> This is an android app for an airlines company using React Native. </h2>
+<h2> This is an cross-platform mobile app for an airlines company using React Native. </h2>
 <h3> Implemented </h3>
 <ul>
   <li>Custom Navigation Tab Bar</li>
